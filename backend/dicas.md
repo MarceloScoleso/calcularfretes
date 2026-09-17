@@ -1,0 +1,8 @@
+# 1 - CRIAR A PASTA BACKEND
+mkdir backend
+# 2 - DENTRO DA PASTA CRIAR O ARQUIVO 
+server.js
+# 3 - CRIAR O ARQUIVO PACKAGE.JSON 
+npm init -y
+# 4 - INSTALAR A DEPENDêNCIA DO EXPRESS
+npm install express
